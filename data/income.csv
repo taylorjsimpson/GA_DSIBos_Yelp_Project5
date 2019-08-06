@@ -1,0 +1,51 @@
+city,income,state,abbrev_state
+Birmingham,36241,Alabama,AL
+Anchorage,85634,Alaska,AK
+Phoenix,52062,Arizona,AZ
+Little Rock,45605,Arkansas,AR
+Los Angeles,54432,California,CA
+Denver,61105,Colorado,CO
+Bridgeport,42113,Connecticut,CT
+Wilmington,36435,Delaware,DE
+Jacksonville,51298,Florida,FL
+Atlanta,53843,Georgia,GA
+Honolulu,69964,Hawaii,HI
+Boise,55199,Idaho,ID
+Chicago,53006,Illinois,IL
+Indianapolis,44615,Indiana,IN
+Des Moines,49203,Iowa,IA
+Wichita,49202,Kansas,KS
+Louisville,38005,Kentucky,KY
+New Orleans,38681,Louisiana,LA
+Portland,51851,Maine,ME
+Baltimore,47350,Maryland,MD
+Boston,63621,Massachusetts,MA
+Detroit,28099,Michigan,MI
+Minneapolis,56255,Minnesota,MN
+Jackson,39724,Mississippi,MS
+Kansas City,51235,Missouri,MO
+Billings,54222,Montana,MT
+Omaha,52672,Nebraska,NE
+Las Vegas,51115,Nevada,NV
+Manchester,54664,New Hampshire,NH
+Newark,31100,New Jersey,NJ
+Albuquerque,50522,New Mexico,NM
+New York,58856,New York,NY
+Charlotte,61017,North Carolina,NC
+Fargo,52699,North Dakota,ND
+Columbus,49602,Ohio,OH
+Oklahoma City,52915,Oklahoma,OK
+Portland,62127,Oregon,OR
+Philadelphia,41449,Pennsylvania,PA
+Providence,40335,Rhode Island,RI
+Charleston,61467,South Carolina,SC
+Sioux Falls,56867,South Dakota,SD
+Nashville-Davidson,54310,Tennessee,TN
+Houston,47793,Texas,TX
+Salt Lake City,56994,Utah,UT
+Burlington,48464,Vermont,VT
+Virginia Beach,71117,Virginia,VA
+Seattle,83476,Washington,WA
+Charleston,45187,West Virginia,WV
+Milwaukee,38097,Wisconsin,WI
+Cheyenne,59877,Wyoming,WY

@@ -1,0 +1,51 @@
+city_state,abbrev_state,home_index
+"New York, NY",NY,443000
+"Los Angeles, CA",CA,649600
+"Chicago, IL",IL,224900
+"Philadelphia, PA",PA,233000
+"Houston, TX",TX,205700
+"Atlanta, GA",GA,219700
+"Boston, MA",MA,464400
+"Detroit, MI",MI,163100
+"Phoenix, AZ",AZ,267200
+"Seattle, WA",WA,489400
+"Minneapolis-St Paul, MN",MN,272000
+"Baltimore, MD",MD,267500
+"Denver, CO",CO,408000
+"Portland, OR",OR,395300
+"Charlotte, NC",NC,209800
+"Kansas City, MO",MO,191800
+"Las Vegas, NV",NV,278700
+"Columbus, OH",OH,193200
+"Indianapolis, IN",IN,166700
+"Virginia Beach, VA",VA,229500
+"Nashville, TN",TN,255500
+"Providence, RI",RI,294900
+"Milwaukee, WI",WI,232700
+"Jacksonville, FL",FL,213800
+"Oklahoma City, OK",OK,147800
+"Louisville-Jefferson County, KY",KY,163700
+"New Orleans, LA",LA,175700
+"Birmingham, AL",AL,148100
+"Salt Lake City, UT",UT,369500
+"Urban Honolulu, HI",HI,674600
+"Bridgeport, CT",CT,336100
+"Albuquerque, NM",NM,200300
+"Omaha, NE",NE,178500
+"Little Rock, AR",AR,141400
+"Charleston, SC",SC,253800
+"Wichita, KS",KS,132400
+"Boise City, ID",ID,289800
+"Des Moines, IA",IA,189700
+"Jackson, MS",MS,143900
+"Portland, ME",ME,293400
+"Manchester, NH",NH,291900
+"Anchorage, AK",AK,328100
+"Newark, NJ",NJ,240600
+"Sioux Falls, SD",SD,194500
+"Charleston, WV",WV,91400
+"Burlington, VT",VT,274400
+"Fargo, ND",ND,214100
+"Dover, DE",DE,211800
+"Billings, MT",MT,233100
+"Cheyenne, WY",WY,255300

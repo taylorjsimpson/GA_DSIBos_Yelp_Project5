@@ -1,0 +1,51 @@
+﻿city,abbrev_state,violent_crime_per_100k,property_crime_per_100k
+Birmingham,AL,1201,8598
+Charlotte,NC,338,3876
+Anchorage,AK,1144,4898
+Phoenix,AZ,674,3690
+Little Rock,AR,1531,6898
+Los Angeles,CA,719,2474
+Denver,CO,657,3590
+Bridgeport,CT,752,2199
+New York,NY,573,1462
+Newark,NJ,937,2241
+Philadelphia,PA,989,3141
+Wilmington,DE,1780,4910
+Baltimore,MD,1780,4778
+Seattle,WA,613,5488
+Jacksonville,FL,625,3582
+Atlanta,GA,1084,5249
+Honolulu,HI,889,8164
+Boise,ID,298,2326
+Las Vegas,NV,849,2889
+Chicago,IL,1105,3191
+Indianapolis,IN,1374,4795
+Des Moines,IA,708,4199
+Wichita,KS,1057,5382
+Louisville,KY,676,4424
+New Orleans,LA,1070,3920
+Portland,ME,292,2677
+Virginia Beach,VA,155,2176
+Boston,MA,707,2150
+Detroit,MI,2047,4723
+Minneapolis,MN,1109,4222
+Jackson,MS,1237,4549
+Kansas City,MO,1713,4532
+Billings,MT,461,4680
+Omaha,NE,567,3767
+Manchester,NH,672,2728
+Albuquerque,NM,1112,6861
+Charleston,SC,302,2485
+Fargo,ND,385,3170
+Columbus,OH,522,4070
+Oklahoma City,OK,783,3901
+Portland,OR,493,5153
+Providence,RI,575,3373
+Sioux Falls,SD,512,3176
+Nashville-Davidson,TN,1102,3697
+Houston,TX,1026,4321
+Charleston,WV,1552,7969
+Salt Lake City,UT,936,8535
+Burlington,VT,331,3000
+Milwaukee,WI,1533,4064
+Cheyenne,WY,269,3789

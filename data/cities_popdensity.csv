@@ -1,0 +1,60 @@
+Column1,"city,state",most_populous_city,state,Population Density (Persons/Square Mile),2016 Population,Land Area (Square Miles)
+0,"Birmingham, Alabama",Birmingham,Alabama,"1,452","212,157",146
+1,"Anchorage, Alaska",Anchorage,Alaska,175,"298,192","1,705"
+3,"Phoenix, Arizona",Phoenix,Arizona,"3,126","1,615,017",517
+4,"Little Rock, Arkansas",Little Rock,Arkansas,"1,666","198,541",119
+5,"Los Angeles, California",Los Angeles,California,"8,484","3,976,322",469
+6,"Denver, Colorado",Denver,Colorado,"4,530","693,060",153
+7,"Bridgeport, Connecticut",Bridgeport**,Connecticut,"9,155","147,022",
+8,"Wilmington, Delaware",Wilmington,Delaware,"6,554","71,442",11
+10,"Jacksonville, Florida",Jacksonville,Florida,"1,179","880,619",747
+11,"Atlanta, Georgia",Atlanta,Georgia,"3,549","472,522",133
+13,"Honolulu, Hawaii",Honolulu,Hawaii,"5,813","351,792",61
+14,"Boise, Idaho",Boise,Idaho,"2,812","223,154",79
+15,"Chicago, Illinois",Chicago,Illinois,"11,883","2,704,958",228
+16,"Indianapolis, Indiana",Indianapolis,Indiana,"2,366","855,164",361
+17,"Des Moines, Iowa",Des Moines,Iowa,"2,664","215,472",81
+18,"Wichita, Kansas",Wichita,Kansas,"2,448","389,902",159
+19,"Louisville, Kentucky",Louisville,Kentucky,"1,895","616,261",325
+20,"New Orleans, Louisiana",New Orleans,Louisiana,"2,311","391,495",169
+21,"Portland, Maine",Portland,Maine,"3,141","66,937",21
+22,"Baltimore, Maryland",Baltimore,Maryland,"7,594","614,664",81
+23,"Boston, Massachusetts",Boston,Massachusetts,"13,943","673,184",48
+24,"Detroit, Michigan",Detroit,Michigan,"4,849","672,795",139
+25,"Minneapolis, Minnesota",Minneapolis,Minnesota,"7,664","413,651",54
+26,"Jackson, Mississippi",Jackson,Mississippi,"1,523","169,148",111
+27,"Kansas City, Missouri",Kansas City,Missouri,"1,529","481,420",315
+28,"Billings, Montana",Billings,Montana,"2,541","110,323",43
+29,"Omaha, Nebraska",Omaha,Nebraska,"3,517","446,970",127
+30,"Las Vegas, Nevada",Las Vegas,Nevada,"4,660","632,912",136
+31,"Manchester, New Hampshire",Manchester,New Hampshire,"3,339","110,506",33
+32,"Newark, New Jersey",Newark,New Jersey,"11,648","281,764",24
+33,"Albuquerque, New Mexico",Albuquerque,New Mexico,"2,979","559,277",188
+34,"New York City, New York",New York City,New York,"28,211","8,537,673",303
+35,"Charlotte, North Carolina",Charlotte,North Carolina,"2,829","842,051",298
+36,"Fargo, North Dakota",Fargo,North Dakota,"2,474","120,762",49
+38,"Columbus, Ohio",Columbus,Ohio,"3,960","860,090",217
+39,"Oklahoma City, Oklahoma",Oklahoma City,Oklahoma,"1,053","638,367",606
+40,"Portland, Oregon",Portland,Oregon,"4,795","639,863",133
+41,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,"11,692","1,567,872",134
+43,"Providence, Rhode Island",Providence,Rhode Island,"9,740","179,219",18
+44,"Charleston, South Carolina",Charleston,South Carolina,"1,233","134,385",109
+45,"Sioux Falls, South Dakota",Sioux Falls,South Dakota,"1,445","82,872",57
+46,"Nashville, Tennessee",Nashville,Tennessee,"1,390","660,388",475
+47,"Houston, Texas",Houston,Texas,"3,842","2,303,482",600
+48,"Salt Lake City, Utah",Salt Lake City,Utah,"1,744","193,744",111
+49,"Burlington, Vermont",Burlington***,Vermont,"4,130","42,292",
+51,"Virginia Beach, Virginia",Virginia Beach,Virginia,"1,818","452,602",249
+52,"Seattle, Washington",Seattle,Washington,"8,391","704,352",84
+53,"Charleston, West Virginia",Charleston****,West Virginia,"1,594","48,769",
+54,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,"6,191","595,047",96
+55,"Cheyenne, Wyoming",Cheyenne,Wyoming,"2,611","64,019",25
+,,,,,,
+,*source for pop density,,,,,
+,https://www.governing.com/gov-data/population-density-land-area-cities-map.html,,,,,
+,**,,,,,
+,https://www.areavibes.com/bridgeport-ct/demographics/,,,,,
+,***,,,,,
+,http://worldpopulationreview.com/us-cities/burlington-vt-population/,,,,,
+,****,,,,,
+,https://www.areavibes.com/charleston-wv/demographics/,,,,,

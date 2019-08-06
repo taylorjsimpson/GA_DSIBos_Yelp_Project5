@@ -1,0 +1,51 @@
+city_state,State,abbrev_state,population_density,2016_population,land_area
+"Oklahoma City, Oklahoma",Oklahoma,OK,1053,638367,606
+"Jacksonville, Florida",Florida,FL,1179,880619,747
+"Charleston, South Carolina",South Carolina,SC,1233,134385,109
+"Nashville, Tennessee",Tennessee,TN,1390,660388,475
+"Sioux Falls, South Dakota",South Dakota,SD,1445,82872,57
+"Birmingham, Alabama",Alabama,AL,1452,212157,146
+"Jackson, Mississippi",Mississippi,MS,1523,169148,111
+"Kansas City, Missouri",Missouri,MO,1529,481420,315
+"Charleston, West Virginia",West Virginia,WV,1594,48769,32.64
+"Little Rock, Arkansas",Arkansas,AR,1666,198541,119
+"Salt Lake City, Utah",Utah,UT,1744,193744,111
+"Virginia Beach, Virginia",Virginia,VA,1818,452602,249
+"Louisville, Kentucky",Kentucky,KY,1895,616261,325
+"Newark, New Jersey",New Jersey,NJ,11648,281764,24
+"Philadelphia, Pennsylvania",Pennsylvania,PA,11692,1567872,134
+"Chicago, Illinois",Illinois,IL,11883,2704958,228
+"Boston, Massachusetts",Massachusetts,MA,13943,673184,48
+"Anchorage, Alaska",Alaska,AK,175,298192,1705
+"New Orleans, Louisiana",Louisiana,LA,2311,391495,169
+"Indianapolis, Indiana",Indiana,IN,2366,855164,361
+"Wichita, Kansas",Kansas,KS,2448,389902,159
+"Fargo, North Dakota",North Dakota,ND,2474,120762,49
+"Billings, Montana",Montana,MO,2541,110323,43
+"Cheyenne, Wyoming",Wyoming,WY,2611,64019,25
+"Des Moines, Iowa",Iowa,IA,2664,215472,81
+"Boise, Idaho",Idaho,ID,2812,223154,79
+"Charlotte, North Carolina",North Carolina,NC,2829,842051,298
+"Albuquerque, New Mexico",New Mexico,NM,2979,559277,188
+"New York City, New York",New York,NY,28211,8537673,303
+"Phoenix, Arizona",Arizona,AZ,3126,1615017,517
+"Portland, Maine",Maine,ME,3141,66937,21
+"Manchester, New Hampshire",New Hampshire,NH,3339,110506,33
+"Omaha, Nebraska",Nebraska,NE,3517,446970,127
+"Atlanta, Georgia",Georgia,GA,3549,472522,133
+"Houston, Texas",Texas,TX,3842,2303482,600
+"Columbus, Ohio",Ohio,OH,3960,860090,217
+"Burlington, Vermont",Vermont,VT,4130,42292,15.48
+"Denver, Colorado",Colorado,CO,4530,693060,153
+"Las Vegas, Nevada",Nevada,NV,4660,632912,136
+"Portland, Oregon",Oregon,OR,4795,639863,133
+"Detroit, Michigan",Michigan,MI,4849,672795,139
+"Honolulu, Hawaii",Hawaii,HI,5813,351792,61
+"Milwaukee, Wisconsin",Wisconsin,WI,6191,595047,96
+"Wilmington, Delaware",Delaware,DE,6554,71442,11
+"Baltimore, Maryland",Maryland,MD,7594,614664,81
+"Minneapolis, Minnesota",Minnesota,MN,7664,413651,54
+"Seattle, Washington",Washington,WA,8391,704352,84
+"Los Angeles, California",California,CA,8484,3976322,469
+"Bridgeport, Connecticut",Connecticut,CT,9155,147022,19.38
+"Providence, Rhode Island",Rhode Island,RI,9740,179219,18
